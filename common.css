@@ -72,6 +72,12 @@ a {
 .m-r-05, .m-x-05 { margin-right:.5rem!important }
 .m-l-05, .m-x-05 { margin-left:.5rem!important }
 
+.m-a-025 { margin:.25rem!important }
+.m-t-025, .m-y-025 { margin-top:.25rem!important }
+.m-b-025, .m-y-025 { margin-bottom:.25rem!important }
+.m-r-025, .m-x-025 { margin-right:.25rem!important }
+.m-l-025, .m-x-025 { margin-left:.25rem!important }
+
 .m-a-0 { margin:0!important }
 .m-t-0, .m-y-0 { margin-top:0!important }
 .m-b-0, .m-y-0 { margin-bottom:0!important }
