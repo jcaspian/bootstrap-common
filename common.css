@@ -127,11 +127,17 @@ a {
 .embed-responsive-1by4 {
   padding-bottom: calc(100% / 1 * 4);
 }
+.embed-responsive-1by5 {
+  padding-bottom: calc(100% / 1 * 5);
+}
 .embed-responsive-2by1 {
   padding-bottom: calc(100% / 2 * 1);
 }
 .embed-responsive-2by3 {
   padding-bottom: calc(100% / 2 * 3);
+}
+.embed-responsive-2by5 {
+  padding-bottom: calc(100% / 2 * 5);
 }
 .embed-responsive-3by1 {
   padding-bottom: calc(100% / 3 * 1);
@@ -142,11 +148,29 @@ a {
 .embed-responsive-3by4 {
   padding-bottom: calc(100% / 3 * 4);
 }
+.embed-responsive-3by5 {
+  padding-bottom: calc(100% / 3 * 5);
+}
 .embed-responsive-4by1 {
   padding-bottom: calc(100% / 4 * 1);
 }
 .embed-responsive-4by3 {
   padding-bottom: calc(100% / 4 * 3);
+}
+.embed-responsive-4by5 {
+  padding-bottom: calc(100% / 4 * 5);
+}
+.embed-responsive-5by1 {
+  padding-bottom: calc(100% / 5 * 1);
+}
+.embed-responsive-5by2 {
+  padding-bottom: calc(100% / 5 * 2);
+}
+.embed-responsive-5by3 {
+  padding-bottom: calc(100% / 5 * 3);
+}
+.embed-responsive-5by4 {
+  padding-bottom: calc(100% / 5 * 4);
 }
 .embed-responsive-9by16 {
   padding-bottom: calc(100% / 9 * 16);
