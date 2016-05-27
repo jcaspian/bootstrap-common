@@ -574,9 +574,17 @@ h6, .h6 {
 
 @media only screen and (min-width: 34em) {
   .container {
-    width: 35rem;
+    width: 32rem;
   }
-
+  
+  .container-sm {
+    max-width: 32rem;
+  }
+  
+  .container-sm-fluid {
+    width: initial;
+  }
+  
   .col-sm,
   .col-sm-1,
   .col-sm-2,
@@ -830,7 +838,15 @@ h6, .h6 {
 
 @media only screen and (min-width: 48em) {
   .container {
-    width: 49rem;
+    width: 46rem;
+  }
+  
+  .container-md {
+    max-width: 46rem;
+  }
+  
+  .container-md-fluid {
+    width: initial;
   }
 
   .col-md,
@@ -1086,7 +1102,15 @@ h6, .h6 {
 
 @media only screen and (min-width: 64em) {
   .container {
-    width: 65rem;
+    width: 62rem;
+  }
+  
+  .container-lg {
+    max-width: 62rem;
+  }
+  
+  .container-lg-fluid {
+    width: initial;
   }
 
   .col-lg,
@@ -1342,7 +1366,15 @@ h6, .h6 {
 
 @media only screen and (min-width: 75em) {
   .container {
-    width: 76rem;
+    width: 73rem;
+  }
+  
+  .container-xl {
+    max-width: 73rem;
+  }
+  
+  .container-xl-fluid {
+    width: initial;
   }
 
   .col-xl,
