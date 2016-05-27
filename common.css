@@ -1669,13 +1669,13 @@ h6, .h6 {
   }
 }
 
-@media (max-width: 73.9375em) {
+@media (max-width: 74.9375em) {
   .hidden-lg-down {
     display: none !important;
   }
 }
 
-@media (min-width: 74em) {
+@media (min-width: 75em) {
   .hidden-xl-up {
     display: none !important;
   }
@@ -1758,7 +1758,7 @@ h6, .h6 {
   }
 }
 
-@media (min-width: 62em) {
+@media (min-width: 64em) {
   .pull-lg-left {
     float: left !important;
   }
@@ -1944,7 +1944,7 @@ h6, .h6 {
   }
 }
 
-@media (min-width: 62em) {
+@media (min-width: 64em) {
   .text-lg-left {
     text-align: left !important;
   }
