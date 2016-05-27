@@ -1657,25 +1657,25 @@ h6, .h6 {
   }
 }
 
-@media (max-width: 61.9375em) {
+@media (max-width: 63.9375em) {
   .hidden-md-down {
     display: none !important;
   }
 }
 
-@media (min-width: 62em) {
+@media (min-width: 64em) {
   .hidden-lg-up {
     display: none !important;
   }
 }
 
-@media (max-width: 74.9375em) {
+@media (max-width: 73.9375em) {
   .hidden-lg-down {
     display: none !important;
   }
 }
 
-@media (min-width: 75em) {
+@media (min-width: 74em) {
   .hidden-xl-up {
     display: none !important;
   }
