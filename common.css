@@ -168,6 +168,9 @@ h6, .h6 {
 .embed-responsive-1by5 {
   padding-bottom: calc(100% / 1 * 5);
 }
+.embed-responsive-1by6 {
+  padding-bottom: calc(100% / 1 * 6);
+}
 .embed-responsive-2by1 {
   padding-bottom: calc(100% / 2 * 1);
 }
@@ -209,6 +212,9 @@ h6, .h6 {
 }
 .embed-responsive-5by4 {
   padding-bottom: calc(100% / 5 * 4);
+}
+.embed-responsive-6by1 {
+  padding-bottom: calc(100% / 6 * 1);
 }
 .embed-responsive-9by16 {
   padding-bottom: calc(100% / 9 * 16);
